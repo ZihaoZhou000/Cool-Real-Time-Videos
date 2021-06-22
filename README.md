@@ -1,4 +1,4 @@
-# Cool-Real-Time-Videos
+# Cool Real Time Videos
 
 The goal for this project is to make a simple GUI that can add some widget on your faces and replace the background of the real-time video. 
 
